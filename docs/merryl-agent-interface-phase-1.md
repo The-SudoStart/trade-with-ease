@@ -10,6 +10,9 @@ This keeps one source of truth, avoids a second service and database, and lets a
 
 The MCP service exposes market intelligence only. It has no tools for orders, accounts, positions, trade proposals, or brokerage access.
 
+## Data flow
+
+![alt text](images/image.png)
 ## Repository evidence
 
 Inspected Merryl at [`f3822b6`](https://github.com/AssahBismarkabah/Merryl/commit/f3822b667adad82831f71d51172b47be708d0e3a). These are observations about that revision, rather than assumptions from Trade With Ease's roadmap:
